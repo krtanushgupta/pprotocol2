@@ -1,0 +1,6 @@
+{
+  "name": "CatchUp AI — Aggressive Message Interception Command",
+  "description": "An unmissable, high-energy message interception system that filters 240+ chaotic chat messages down to the 3 things that actually matter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
